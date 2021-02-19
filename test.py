@@ -25,3 +25,6 @@ def scrap_data(context=None, event=None):
                 }
             )
     return data
+
+
+print("running via jenkins.....")
